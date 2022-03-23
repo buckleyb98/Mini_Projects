@@ -1,2 +1,2 @@
 # Mini_Projects
- Contains he side-projects I have made for practice/fun.
+ Contains the side-projects I have made for practice/fun.
